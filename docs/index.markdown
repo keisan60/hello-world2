@@ -3,9 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: ""ソフトウェア工学　2024"
+title: "ソフトウェア工学　2024"
 ---
 
 #ソフトウェア工学 2024
 
 git/github演習
+
+[git memo][def]
+
+[def]: /docs/git-memo
